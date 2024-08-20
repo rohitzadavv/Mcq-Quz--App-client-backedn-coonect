@@ -29,7 +29,7 @@ export default function Main() {
         </ol>
 
         <form id="form">
-            <input ref={inputRef} className="userid" type="text" placeholder='Username*' />
+            <input ref={inputRef} className="userid" type="text" placeholder='Email*' />
         </form>
 
         <div className='start'>
